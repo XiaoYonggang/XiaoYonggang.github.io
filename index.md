@@ -8,7 +8,7 @@
      <p><b>Address: No.88, Xianning Road, Xianning, China</b></p>
    </td>
   <td width="30%">
-    <img src="/xiao.png" width="100%”>
+    <img src="/xiao.jpg" width="100%”>
   </td>
   </tr>
 </table>
